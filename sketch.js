@@ -18,7 +18,7 @@ let img;
 //imagens
 function preload() {
   
-  for(i = 0; i<6; i++){
+  for(i = 0; i<5; i++){
     vetor_fundos[i] = loadImage('tela0'+i+'.gif')
   }
   
